@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Opensource projects**
 
-- 📫 How to reach me **arnablaha2345@gmail.com**
+- 📫 How to reach me **mondalbishakha01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
