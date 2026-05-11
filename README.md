@@ -48,19 +48,8 @@ Docker • Git • LaTeX • Power BI • MongoDB • HTML/CSS
 
 ---
 
-### 📊 GitHub Stats
-
-![Bishakha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bishakha0808&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishakha0808&layout=compact&theme=radical)
-
----
 
 ### 📫 Let's Connect
 - **Email**: mondalbishakha01@gmail.com
 - **LinkedIn**: [linkedin.com/in/bishakha-mondal-021393287](https://linkedin.com/in/bishakha-mondal-021393287)
 
-
----
-
-**"Turning data into meaningful insights through intelligent systems"**
-</div>
